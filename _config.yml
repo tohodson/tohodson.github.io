@@ -1,0 +1,10 @@
+name: "Timothy Hodson"
+description: "test"
+
+url: "tohodson.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
